@@ -42,3 +42,13 @@ function  convert (amount, curr) {
 
 convert(500, 28);
 convert(500, 32);
+
+function test() {
+    for (let i = 0; i < 5; i++) {
+        console.log(i);
+        if (i === 3) return
+    }
+    console.log('Done');
+}
+
+test();
