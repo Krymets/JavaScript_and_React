@@ -6,3 +6,5 @@
 ![3.jpg](JavaScript%20basics/25.%20Functions,%20arrow%20functions%20(ES6)/functions.jpg)
 ### Objects & Arrays
 ![4.jpg](JavaScript%20basics/33.%20Arrays%20and%20pseudo-arrays/Objects_Arrays.jpg)
+### Dynamic typing in JS
+![5.jpg](JavaScript%20basics/39.%20Dynamic%20typing%20in%20JS/classification.jpg)
