@@ -8,6 +8,7 @@ console.log(num, num2);
 
 
 function User(name, id) { // ES5, class -> ES6
+	// this = {};  (неявно)
 	this.name = name;
 	this.id = id;
 	this.human = true;
